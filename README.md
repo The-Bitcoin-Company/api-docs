@@ -1,4 +1,4 @@
-# The Bitcoin Company API Documentation
+# The Bitcoin Company Integration Wiki
 
 Welcome to The Bitcoin Company's integration documentation!
 
